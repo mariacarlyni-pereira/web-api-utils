@@ -44,8 +44,9 @@ Exemplos de uso:
 
 #### Prints de validação
 
-- Print 1: requisição `POST /text/lowercase`
-- Print 2: requisição `POST /text/uppercase`
+- Print 1: requisição `POST /text/uppercase`
+- Print 2: requisição `POST /text/lowercase`
+
 
 <img width="1002" height="352" alt="image" src="https://github.com/user-attachments/assets/8edb685a-a2a2-46ab-959c-e712724ab907" />
 
