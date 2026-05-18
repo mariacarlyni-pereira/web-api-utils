@@ -47,7 +47,7 @@ Exemplos de uso:
 - Print 1: requisição `POST /text/lowercase`
 - Print 2: requisição `POST /text/uppercase`
 
-> Insira aqui as imagens ou capturas de tela das requisições e respostas.
+<img width="1002" height="352" alt="image" src="https://github.com/user-attachments/assets/8edb685a-a2a2-46ab-959c-e712724ab907" />
 
 ---
 
@@ -77,7 +77,7 @@ Exemplos de uso:
 - Print 3: requisição `GET /number/minimum?input=10,1,100`
 - Print 4: requisição `GET /number/maximum?input=10,1,100`
 
-> Insira aqui as imagens ou capturas de tela das requisições e respostas.
+  <img width="991" height="326" alt="image" src="https://github.com/user-attachments/assets/a04da792-330f-4c50-b64e-7c4ba28d8853" />
 
 ---
 
